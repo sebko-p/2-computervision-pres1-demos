@@ -4,5 +4,5 @@ NOTICE: This repository is supposed to enable easy and quick access to the demos
 
 Files without any citation are self-created.
 
-tutorial (1).ipynb: https://github.com/google/automl/blob/master/efficientdet/tutorial.ipynb
+tutorial (1).ipynb: https://github.com/google/automl/blob/master/efficientdet/tutorial.ipynb \
 model_inspect.py: https://github.com/google/automl/blob/master/efficientdet/model_inspect.py
